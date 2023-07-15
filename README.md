@@ -1,6 +1,7 @@
 # jualan
 
-A new Flutter project.
+![Deskripsi Gambar](https://user-images.githubusercontent.com/45864165/253721925-5f2f5662-f3c2-4ea4-ade1-b6137d4301c3.png)
+![Deskripsi Gambar]()
 
 ## Getting Started
 
